@@ -1,7 +1,9 @@
 # ICOG-Abe-and-Bam
 #Ethio-Pharmacy
-table of contents
-statement of the problem......................................................1
-system documentation..........................................................2
+Requirements to run the source code
+1. Use Intellij idea or vs code
+2. JDK version 17
+3. MYSQL database
+
 
 
