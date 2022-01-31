@@ -1,5 +1,15 @@
-# ICOG-Abe-and-Bam
-#Ethio-Pharmacy
+
+# -Ethio-Pharmacy
+
+
+  Members Name           ID                  Section
+ 1. Feven Belay         UGR/3979/12              1
+ 2. Abraham Shimekt     UGR/0129/12              1
+ 3. Rut Birhanu         UGR/8243/12              3
+ 4. Bamlaku Hiruy       UGR/4774/12              3
+ 5. Hiwot Derese        UGR/2790/12              3
+
+
 # Requirements to run the source code
 1. Use Intellij idea or vs code
 2. JDK version 17
@@ -22,9 +32,6 @@ The user has the following authorities: He can Read, add, delete and update orde
 The Admin has following authorities: Read, add, update and delete medicines
 
 • The authentication feature has the following features: The user will be able to sign up, login and log out. The user can also delete and update his account profile.
-#Group Members
-1. Abraham Shimekt  shimektabraham@gmail.com 0901195602
-2. Bamlaku Hiruy    bamlakuhiruya@gmail.com  0946461157
 
 
 

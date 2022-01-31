@@ -1,8 +1,7 @@
-
 .container{
     background-color: rgba(0,0,0,0.3);
     padding-top:2vw;
-    border:2px rgb(0, 0, 15) solid; 
+    border:2px rgb(0, 0, 15) solid;
     height:fit-content;
 }
 .btn{
